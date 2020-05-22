@@ -10,9 +10,8 @@ body {
 }
 
 .image-wrapper {
-  /* width: 200px; */
-  /* height: 200px;  */
   margin: 10px;
+  flex: 1 0 14%;
 }
 
 .image-cont {
